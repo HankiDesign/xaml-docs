@@ -12,9 +12,9 @@ position: 7
 
 To customize the appearance of the __RadButtons__ you can use the standard properties that are provided by the __Control__ class, like __Background__, __Foreground__, __Effect__ etc.
 
-Also you can use the __RadButtons__ specific properties:
+Also, you can use the __RadButtons__ specific properties:
 
-* __CornerRadius__ - specifies the value for the radius of the button's corners.
+* __CornerRadius__ - specifies the radius of the button's corners.
 
 * __IsBackgroundVisible__ - specifies whether the background is visible, when the button is in its __Normal__ state.
 
